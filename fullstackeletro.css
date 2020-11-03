@@ -1,0 +1,165 @@
+/* Inicio do menu de paginas */
+.menu a {    
+color: white;
+text-decoration: none;
+text-align: center;
+display: inline-block;
+width: 20%;
+margin-left: 50px;
+}
+.menu {
+background-color: red;
+width: 100%;
+
+}
+.menu img {
+width: 100px;
+}
+ /* Fim do menu de paginas */
+
+
+
+
+
+ /* Inicio imagem formas de pagamentos fullstack */
+.pagamento {
+    font-family: Arial;      
+    text-align: center;  
+    padding-top: 90%;
+}
+.pagamento1 {
+    font-family: Arial;        
+    text-align: center;  
+    bottom: 90%;
+}
+.copy {
+    color: red;
+    font-weight: bolder; 
+    text-align: center;   
+}
+ /*Fim imagem formas de pagamentos fullstack */
+
+
+
+
+/* Titulos das paginas */
+ h3, h2 {
+    font-family: Arial;    
+}
+
+
+
+
+/* Inicio div e section de produtos */
+.produtos {
+    width: 85%;     
+    margin-left: 15%;   
+    position: absolute;    
+    top: 190px;    
+   }       
+.fotos_produtos {
+    width: 100%;    
+    float: left;  
+    width: 23%;
+    height: 23%;
+    margin-left: 0;
+    margin-right: 5px;
+    margin-bottom: 10px;  
+    text-align: center;   
+ } 
+ .descricao {
+    font-size: 14px;
+    font-family: Arial;  
+}
+.preco {
+    color: red;
+    font-weight: bolder;
+    font-size: 18px    
+}
+ /* Fim div e section de produtos */
+
+
+
+
+ /*Inicio menu de categorias */
+ .categorias {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; 
+   }
+/*Fim menu de categorias */
+
+
+
+
+/*Inicio div e section de contatos */
+.contato {
+    display: flex;
+    width: 100%;    
+}
+.email img {
+    width: 40px;
+    position: relative;    
+    top: 98px;  
+    left: 5px;     
+    bottom: 10px;
+}
+.email p {
+    width: 20%;
+    position: relative;    
+    left: 45px;
+    top: 50px; 
+    font-weight: bolder;   
+}
+.whatsapp img {
+    width: 110px;
+    position: relative;    
+    left: 80%;          
+    bottom: 8px;
+}
+.whatsapp p {
+    position: relative;
+    float: right;
+    right: 10px;  
+    font-weight: bolder;  
+    }  
+  /*Fim div e section contatos */  
+    
+
+
+  /*Inicio endereços nossas lojas */
+    .lojas1 {
+     font-family: Arial;
+     width: 100%;      
+    }
+   .lojas2 {       
+       width: 14%;       
+       display: inline-block;
+       margin: 100px;
+       bottom: 80px;
+       position: relative;      
+   }
+   .lojas3 {       
+       width: 14%;   
+       display: inline-block; 
+       margin: 100px;
+       bottom: 80px;
+       position: relative;
+   }
+   .lojas4 {      
+       width: 17%;
+       display: inline-block;
+       margin: 100px;
+       bottom: 110px;
+       position: relative;
+   }
+/*Fim endereços nossas lojas */
+
+
+body {
+    margin: 0;
+}
+
+
+
+
